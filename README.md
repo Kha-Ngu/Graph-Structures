@@ -1,2 +1,14 @@
-# Graph-Structures
-This project involves building a fully functional graph data structure in C++, complete with key graph algorithms such as depth-first search (DFS), breadth-first search (BFS), Dijkstra’s shortest path, and Prim’s minimum spanning tree. 
+# Graph
+
+Graph class with several graph algorithms including depth-first search, 
+breadth-first search, dijkstra's shortest path, minimum spanning tree
+
+
+## Included Files
+
+- `graph.h, graph.cpp`: Graph class
+
+- `graphtest.cpp`: Test functions
+
+- `main.cpp`: A generic main file to call testAll() to run all tests
+
